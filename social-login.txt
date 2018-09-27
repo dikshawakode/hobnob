@@ -1,5 +1,2 @@
-<<<<<<< 3ba01ba08ac55abc54f9e879f2927d764843b8c4
-facebook
-=======
-twitter
->>>>>>> Implement Twitter login
+Facebook
+Twitter
